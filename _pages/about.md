@@ -26,7 +26,7 @@ NAACL 2022 <br/>
 <a class="code" href="https://github.com/jihyukkim-nlp">code</a>
 
 - **Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption** <br/>
-Garam Lee*, **Minsoo Kim\***, Jai Hyun Park*, Seung-won Hwang <br/>
+Garam Lee\*, **Minsoo Kim\***, Jai Hyun Park\*, Seung-won Hwang <br/>
 NAACL 2022 <br/>
 <a class="code" href="https://arxiv.org/abs/2210.02574">paper</a>
 
