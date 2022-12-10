@@ -30,17 +30,17 @@ Garam Lee*, **Minsoo Kim\***, Jai Hyun Park*, Seung-won Hwang <br/>
 NAACL 2022 <br/>
 <a class="code" href="https://arxiv.org/abs/2210.02574">paper</a>
 
-- Bridging Code-Text Representation Gap using Explanation <br/>
+- **Bridging Code-Text Representation Gap using Explanation** <br/>
 Hojae Han, Youngwon Lee, **Minsoo Kim** <br/>
 ACML 2021 <br/>
 <a class="code" href="https://proceedings.mlr.press/v157/han21a.html">paper</a>
 
-- A Unified Framework for Tumor Proliferation Score Prediction in Breast Histopathology <br/>
+- **A Unified Framework for Tumor Proliferation Score Prediction in Breast Histopathology** <br/>
 Kyunghyun Paeng, Sangheum Hwang, Sunggyun Park, **Minsoo Kim** <br/>
 DLMIA (workshop at MICCAI 2017) <br/>
 <a class="code" href="https://arxiv.org/abs/1612.07180">paper</a>
 
-- Multiple Timescale Gated Recurrent Unit for Summarization <br/>
+- **Multiple Timescale Gated Recurrent Unit for Summarization** <br/>
 **Minsoo Kim**, Dennis Singh Moirangthem, Minho Lee <br/>
 RepL4NLP (workshop at ACL 2016) <br/>
 <a class="code" href="https://arxiv.org/abs/1607.00718">paper</a>
