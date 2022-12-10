@@ -12,7 +12,7 @@ redirect_from:
 layout: default
 ---
 
-Hello, I am a Ph.D student at the [Language and Data Intelligence Lab](https://ldilab-snu.notion.site/) at Seoul National University, advised by [Prof. Seung-won Hwang](https://seungwonh.github.io/). Previously, I graduated from Dartmouth studying Economics and Computer Science.
+Hello, I am a Ph.D student in the [Language and Data Intelligence Lab](https://ldilab-snu.notion.site/) at Seoul National University, advised by [Prof. Seung-won Hwang](https://seungwonh.github.io/). Previously, I graduated from Dartmouth studying Economics and Computer Science.
 
 My research focus is on building language-based agents that can communicate with and assist humans in the real world. My interests include language models, language generation, and reinforcement learning.
 
