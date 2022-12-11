@@ -21,13 +21,13 @@ EMNLP 2022 <br/>
 
 - **Collective Relevance Labeling for Passage Retrieval** <br/>
 Jihyuk Kim, **Minsoo Kim**, Seung-won Hwang <br/>
-NAACL 2022 <br/>
+NAACL 2022 (short) <br/>
 <a class="code" href="https://arxiv.org/abs/2205.03273">paper</a>
 <a class="code" href="https://github.com/jihyukkim-nlp">code</a>
 
 - **Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption** <br/>
 Garam Lee\*, **Minsoo Kim\***, Jai Hyun Park\*, Seung-won Hwang <br/>
-NAACL 2022 <br/>
+NAACL 2022 (short) <br/>
 <a class="code" href="https://arxiv.org/abs/2210.02574">paper</a>
 
 - **Bridging Code-Text Representation Gap using Explanation** <br/>
