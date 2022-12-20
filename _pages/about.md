@@ -36,7 +36,7 @@ ACML 2021 <br/>
 <a class="code" href="https://proceedings.mlr.press/v157/han21a.html">paper</a>
 
 - **A Unified Framework for Tumor Proliferation Score Prediction in Breast Histopathology** <br/>
-Kyunghyun Paeng, Sangheum Hwang, Sunggyun Park, **Minsoo Kim** <br/>
+Kyunghyun Paeng, Sangheum Hwang, Sunggyun Park, **Minsoo Kim**, Seung-won Hwang <br/>
 DLMIA (workshop at MICCAI 2017) <br/>
 <a class="code" href="https://arxiv.org/abs/1612.07180">paper</a>
 
