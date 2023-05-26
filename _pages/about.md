@@ -51,7 +51,7 @@ RepL4NLP (workshop at ACL 2016) <br/>
 <a class="code" href="https://github.com/dennissm/mtgru">code</a>
 
 ### Industry Experience
-- **Adobe Research** (2021.06 - 2021.09) <br/>
+- **Adobe Research** (2023.06 - 2023.09) <br/>
 Research Intern
 
 - **Naver** (2021.05 - 2021.07) <br/>
