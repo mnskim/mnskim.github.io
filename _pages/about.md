@@ -13,6 +13,10 @@ Hello, I am a Ph.D student in the [Language and Data Intelligence Lab](https://l
 My research focus is on language-based agents which interact with environments. My interests include text-based games, information retrieval, language models, and reinforcement learning.
 
 ### Publications
+- **Chaining Event Spans for Temporal Relation Understanding** <br/>
+Jongho Kim, Dohyeon Lee, **Minsoo Kim**, Seung-won Hwang <br/>
+EACL 2024 <br/>
+
 - **Relevance-assisted Generation for Robust Zero-shot Retrieval** <br/>
 Jihyuk Kim, **Minsoo Kim**, Joonsuk Park, Seung-won Hwang <br/>
 EMNLP (Industry Track) 2023 <br/>
