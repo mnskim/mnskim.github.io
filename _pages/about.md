@@ -13,6 +13,10 @@ Hello, I am a Ph.D student in the [Language and Data Intelligence Lab](https://l
 My research focus is on language-based agents which interact with environments. My interests include text-based games, information retrieval, language models, and reinforcement learning.
 
 ### Publications
+- **RaDA: Retrieval-augmented Web Agent Planning with LLMs** <br/>
+**Minsoo Kim**, Victor Bursztyn, Eunyee Koh, Shunan Guo, Seung-won Hwang <br/>
+Findings of ACL 2024 <br/>
+
 - **Chaining Event Spans for Temporal Relation Understanding** <br/>
 Jongho Kim, Dohyeon Lee, **Minsoo Kim**, Seung-won Hwang <br/>
 EACL 2024 <br/>
