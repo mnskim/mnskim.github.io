@@ -13,6 +13,18 @@ Hello, I am a Ph.D student in the [Language and Data Intelligence Lab](https://l
 My research focus is on language-based agents which interact with environments. My interests include text-based games, information retrieval, language models, and reinforcement learning.
 
 ### Publications
+- **QuBE: Question-based Belief Enhancement for Agentic LLM Reasoning** <br/>
+**Minsoo Kim**, Jongyoon Kim, Jihyuk Kim, Seung-won Hwang <br/>
+EMNLP 2024 <br/>
+
+- **Interventional Speech Noise Injection for ASR Generalizable Spoken Language Understanding** <br/>
+YeonJoon Jung, Jaeseong Lee, Seungtaek Choi, Dohyeon Lee, **Minsoo Kim**, Seung-won Hwang <br/>
+EMNLP 2024 <br/>
+
+- **Disentangling Questions from Query Generation for Task-Adaptive Retrieval** <br/>
+Yoonsang Lee, **Minsoo Kim**, Seung-won Hwang <br/>
+Findings of EMNLP 2024 (short) <br/>
+
 - **RaDA: Retrieval-augmented Web Agent Planning with LLMs** <br/>
 **Minsoo Kim**, Victor Bursztyn, Eunyee Koh, Shunan Guo, Seung-won Hwang <br/>
 Findings of ACL 2024 <br/>
